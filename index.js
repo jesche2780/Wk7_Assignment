@@ -11,7 +11,7 @@ function agesAvg(ages) {
     return sum / ages.length
 }
 const average = agesAvg(ages);
-///Wrote a "for" loop that will tage the ages lengths, and introduced a "sum" of the ages, and then divide that sum by the total numbers.
+///Wrote a "for" loop that will take the ages lengths, and introduced a "sum" of the ages, and then divide that sum by the total numbers.
 
 console.log(ages)
 console.log(agesMath)
